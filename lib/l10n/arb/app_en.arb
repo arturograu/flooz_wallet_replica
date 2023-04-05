@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "createAccountPageTitle": "Create account",
+  "@createAccountPageTitle": {
+    "description": "Title of the page where the user can create an account"
+  },
+  "createAccountNameLabel": "Name",
+  "@createAccountNameLabel": {
+    "description": "Label for the name field"
+  },
+  "createAccountEmailLabel": "Email",
+  "@createAccountEmailLabel": {
+    "description": "Label for the email field"
+  },
+  "createAccountNextButton": "Next",
+  "@createAccountNextButton": {
+    "description": "Label for the next button"
+  },
+  "createPasscodePageTitle": "Create passcode",
+  "@createPasscodePageTitle": {
+    "description": "Title of the page where the user can create a passcode"
+  },
+  "createPasscodePageDescription": "Make it :muscle: – Refrain from sequences (123456) and repeated numbers (111234)",
+  "@createPasscodePageDescription": {
+    "description": "Description of the create passcode page"
+  },
+  "createPasscodeSubmitButtonText": "Confirm",
+  "@createPasscodeSubmitButtonText": {
+    "description": "Label for the confirm button"
+  },
+  "somethingWentWrongErrorMessage": "Something went wrong",
+  "@somethingWentWrongErrorMessage": {
+    "description": "Error message when something went wrong"
+  },
+  "createPasscodePageError": "Passcode must consist of 6 digits",
+  "@createPasscodePageError": {
+    "description": "Error message when the passcode is not 6 digits"
+  },
+  "createPasscodePageErrorRepeatingDigits": "Passcode must not contain digits repeating more than 2 times",
+  "@createPasscodePageErrorRepeatingDigits": {
+    "description": "Error message when the passcode contains digits repeating more than 2 times"
+  },
+  "createPasscodePageErrorSequence": "Passcode must not be in sequence",
+  "@createPasscodePageErrorSequence": {
+    "description": "Error when the passcode is in sequence"
+  },
+  "homeClearAccountButton": "Clear account",
+  "@homeClearAccountButton": {
+    "description": "Label for the clear account button"
+  },
+  "homeLogoutButton": "Log out",
+  "@homeLogoutButton": {
+    "description": "Label for the logout button"
+  }
+}

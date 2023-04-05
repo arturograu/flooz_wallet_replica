@@ -1,0 +1,55 @@
+{
+  "@@locale": "es",
+  "createAccountPageTitle": "Crear una cuenta",
+  "@createAccountPageTitle": {
+    "description": "Title of the page where the user can create an account"
+  },
+  "createAccountNameLabel": "Nombre",
+  "@createAccountNameLabel": {
+    "description": "Label for the name field in the create account form"
+  },
+  "createAccountEmailLabel": "Email",
+  "@createAccountEmailLabel": {
+    "description": "Label para el campo de email en el formulario de crear cuenta"
+  },
+  "createAccountNextButton": "Siguiente",
+  "@createAccountNextButton": {
+    "description": "Texto del botón para pasar a la siguiente página"
+  },
+  "createPasscodePageTitle": "Crear código de acceso",
+  "@createPasscodePageTitle": {
+    "description": "Título de la página donde el usuario puede crear su passcode"
+  },
+  "createPasscodePageDescription": "Hazlo :muscle: – Evita secuencias (123456) y núemeros repetidos (111234)",
+  "@createPasscodePageDescription": {
+    "description": "Subtítulo de la página de crear passcode"
+  },
+  "createPasscodeSubmitButtonText": "Confirmar",
+  "@createPasscodeSubmitButtonText": {
+    "description": "Texto del botón para confirmar el passcode"
+  },
+  "somethingWentWrongErrorMessage": "Algo ha ido mal",
+  "@somethingWentWrongErrorMessage": {
+    "description": "Mensaje mostrado cuando ocurre un error no identificado"
+  },
+  "createPasscodePageError": "El código de acceso debe tener 6 dígitos",
+  "@createPasscodePageError": {
+    "description": "Mensaje de error cuando el passcode no tiene 6 dígitos"
+  },
+  "createPasscodePageErrorRepeatingDigits": "No se pueden repetir dígitos más de 2 veces",
+  "@createPasscodePageErrorRepeatingDigits": {
+    "description": "Mensaje de error cuando el passcode tiene más de 2 dígitos repetidos"
+  },
+  "createPasscodePageErrorSequence": "No se pueden usar secuencias",
+  "@createPasscodePageErrorSequence": {
+    "description": "Mensaje de error cuando el passcode tiene una secuencia de dígitos"
+  },
+  "homeClearAccountButton": "Limpiar cuenta",
+  "@homeClearAccountButton": {
+    "description": "Texto del botón para limpiar la cuenta"
+  },
+  "homeLogoutButton": "Cerrar sesión",
+  "@homeLogoutButton": {
+    "description": "Texto del botón para cerrar sesión"
+  }
+}
